@@ -9,9 +9,9 @@ order: 1
  
  Each person testing the form will need to be authenticated in the Firmstep permissions area with the right access. If they’ve not already done so:
  
- 1. Ask the user to go to https://forms.leicestershire.gov.uk > click Login > click Office Login. Then log out and let us/you know when they’ve done this.
+ 1. Ask the user to go to [https://forms.leicestershire.gov.uk](https://forms.leicestershire.gov.uk) > click Login > click Office Login. Then log out and let us/you know when they’ve done this.
  2.	In Firmstep permissions, find the user > Edit > tick Office Login > in Groups add them to LCC Internal
- 3.	User: Go to https://forms.leicestershire.gov.uk > click Login > click Office Login > then they can either go to https://forms.leicestershire.gov.uk/MyServices or you can give them a direct link to the test form
+ 3.	User: Go to [https://forms.leicestershire.gov.uk](https://forms.leicestershire.gov.uk) > click Login > click Office Login > then they can either go to [https://forms.leicestershire.gov.uk/MyServices](https://forms.leicestershire.gov.uk/MyServices) or you can give them a direct link to the test form
 
 Things you need to do with the form in Self Admin:
  -	If you want to move the form out of ‘Other Ungrouped forms’: Go to App Management > Services > start typing the form name in the input box for Forms then add it. Click update at the top when done.
